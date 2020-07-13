@@ -1,5 +1,3 @@
-# Lucas Lui Motta
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)](https://github.com/lucaslui)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lui-motta-eng/)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
 
