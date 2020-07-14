@@ -9,7 +9,7 @@ Tendo como hobbie o desenvolvimento de software usando linguagem Java, desde apl
 ### Formação
 - Graduado em Engenharia Elétrica com Enfâse em Eletrônica pela Universidade Salesiana de São Paulo (UNISAL).
 - Mestre em Telecomunicações pela Universidade Estadual de Campinas (UNICAMP).
-- Aluno de Doutorado na UNICAMP na área de Telecomunicações.
+- Aluno de Doutorado na UNICAMP na área de Telecomunicações e Telemática.
 
 ### Certificação
 - [SCRUMstudy - Accreditation Body for Scrum
