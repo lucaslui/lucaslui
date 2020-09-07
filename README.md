@@ -6,14 +6,9 @@
 ![HTML5](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 ![HTML5](https://img.shields.io/badge/-Embedded%20Systems-102230?style=flat)
 
-#### Please feel free to contact via
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
-
 ##### Languages I use frequently
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white)
@@ -39,6 +34,15 @@
 
 ---
 
+##### Please feel free to contact via
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
+
+##### and visit my page in 
+
 [![Page](https://img.shields.io/badge/-PROFILE%20Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
+
+---
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
