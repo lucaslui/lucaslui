@@ -9,24 +9,23 @@
 ##### Languages I use frequently
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/-Matlab-06305b?style=flat&logo=mathworks&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white) 
-![Latex](https://img.shields.io/badge/-Latex-4d008f?style=flat&logo=latex&logoColor=white)
 
 ##### Some of the technologies I have worked with
 
 [![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/en/)
+[![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=339933)]()
 [![Espruino](https://img.shields.io/badge/-Espruino-222222?style=flat&logo=arduino&logoColor=007ACC)](https://www.espruino.com/)
 [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=339933)](https://www.mongodb.com/)
 [![Electron](https://img.shields.io/badge/-Electron-222222?style=flat&logo=electron&logoColor=007ACC)](https://www.electronjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
-[![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=339933)]()
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)]()
 [![Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=fff)]()
 
