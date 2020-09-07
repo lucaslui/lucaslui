@@ -36,12 +36,12 @@
 
 ##### Please feel free to contact via
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
 
 ##### and visit my page in 
 
-[![Page](https://img.shields.io/badge/-PROFILE%20Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
+[![Page](https://img.shields.io/badge/-Page-000000?style=for-the-badge&logo=houzz&logoColor=white)](https://lucaslui.github.io/personal-page/)
 
 ---
 
