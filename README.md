@@ -22,11 +22,11 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/en/)
 [![Espruino](https://img.shields.io/badge/-Espruino-222222?style=flat&logo=arduino&logoColor=007ACC)](https://www.espruino.com/)
 [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=007ACC)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=339933)](https://www.mongodb.com/)
 [![Electron](https://img.shields.io/badge/-Electron-222222?style=flat&logo=electron&logoColor=007ACC)](https://www.electronjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
-[![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)]()
+[![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=339933)]()
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)]()
 [![Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=fff)]()
 
