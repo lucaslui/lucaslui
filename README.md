@@ -21,12 +21,13 @@
 
 [![Node.js](https://img.shields.io/badge/-Node.js-06305b?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/en/)
 [![Espruino](https://img.shields.io/badge/-Espruino-06305b?style=flat&logo=espruino&logoColor=007ACC)](https://www.espruino.com/)
-[![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)
+[![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)]()
 [![MongoDB](https://img.shields.io/badge/-Mongo-06305b?style=flat&logo=espruino&logoColor=007ACC)](https://www.mongodb.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-[![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-[![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
+[![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)]()
+[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)]()
+[![Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=fff)]()
 
 ##### Some of my favorite open source projects
 
