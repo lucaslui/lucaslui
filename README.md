@@ -20,7 +20,7 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 ![HTML5](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat)
 ![HTML5](https://img.shields.io/badge/-Database%20Management-4d008f?style=flat)
-![HTML5](https://img.shields.io/badge/-Latex%20Management-4d008f?style=flat&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/-Latex-4d008f?style=flat&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
 ![HTML5](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
