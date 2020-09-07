@@ -28,8 +28,8 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 [![Espruino](https://img.shields.io/badge/-Espruino-222222?style=flat&logo=espruino&logoColor=007ACC)](https://www.espruino.com/)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ##### Some of my favorite open source projects
