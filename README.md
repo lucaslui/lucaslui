@@ -4,7 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![HTML5](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
-![HTML5](https://img.shields.io/badge/-Embedded%20Systems-102230?style=flat)
+![HTML5](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 
 ##### Languages I use frequently
 
