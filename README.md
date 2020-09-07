@@ -3,7 +3,7 @@
 Sou um estudante e profissional na área de Engenharia Eletrônica e Telecomunicações, amante de tecnologia e apaixonado por conhecimento.
 Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascript para aplicações de Internet das Coisas.
 
-<img align='right' src="iot11-development.gif" width="300">
+<img align='right' src="iot11-development.gif">
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
