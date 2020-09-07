@@ -5,7 +5,7 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
-[![adamalston.com](https://img.shields.io/badge/-Personal-Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
+[![adamalston.com](https://img.shields.io/badge/-Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
 
 ##### Languages I use
 
