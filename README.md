@@ -1,11 +1,8 @@
 <img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%>
-
 ##### Hi there, I'm Lucas and I work with
-
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![Dev](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 ![Embarcados](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
-
 ##### Languages I use frequently
 ![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=white) 
@@ -25,9 +22,6 @@
 [![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)]()
 [![Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=fff)]()
-
 ##### Some of my favorite open source projects
-
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
 ##### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/) and visit my [![Page](https://img.shields.io/badge/-Page-000000?style=flat&logo=houzz&logoColor=white)](https://lucaslui.github.io/personal-page/)
