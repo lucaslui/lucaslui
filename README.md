@@ -23,6 +23,7 @@
 [![Espruino](https://img.shields.io/badge/-Espruino-06305b?style=flat&logo=espruino&logoColor=007ACC)](https://www.espruino.com/)
 [![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)]()
 [![MongoDB](https://img.shields.io/badge/-Mongo-06305b?style=flat&logo=espruino&logoColor=007ACC)](https://www.mongodb.com/)
+[![Electron](https://img.shields.io/badge/-Electron-06305b?style=flat&logo=electron&logoColor=007ACC)](https://www.electronjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
 [![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)]()
