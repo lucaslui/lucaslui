@@ -34,10 +34,7 @@
 
 ---
 
-##### Please feel free to contact via
-
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
+##### Please feel free to contact via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
 
 ##### and visit my page in 
 
