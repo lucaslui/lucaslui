@@ -7,11 +7,6 @@ Tendo como hobbie o desenvolvimento de software usando linguagem Java para todo 
 [![Github Badge](https://img.shields.io/badge/-My%20Personal%20Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)](https://lucaslui.github.io/personal-page/)
 [![HitCount](http://hits.dwyl.com/lucaslui/https://githubcom/lucaslui.svg)](http://hits.dwyl.com/lucaslui/https://githubcom/lucaslui)
 
-### Formação
-- Graduado em Engenharia Elétrica com Enfâse em Eletrônica pela Universidade Salesiana de São Paulo (UNISAL).
-- Mestre em Telecomunicações pela Universidade Estadual de Campinas (UNICAMP).
-- Aluno de Doutorado na UNICAMP na área de Telecomunicações e Telemática.
-
 <!--- ### Certificação
 - [SCRUMstudy - Accreditation Body for Scrum
 ](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-LUCASLUI-736282.pdf)--->
