@@ -8,7 +8,7 @@
 
 ##### Languages I use frequently
 
-![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/-C%20&%20C++-222222?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoColor=white)
