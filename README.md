@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%>
+<img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50% height=70%>
 
 ##### Hi there, I'm Lucas and I work with
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
