@@ -1,13 +1,15 @@
 ## Hi there, I'm Lucas 👋
 
-Sou um estudante e profissional na área de Engenharia Eletrônica e Telecomunicações, amante de tecnologia e apaixonado por conhecimento.
-Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascript para aplicações de Internet das Coisas.
-
+![HTML5](https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat)
+![HTML5](https://img.shields.io/badge/-Database%20Management-4d008f?style=flat)
+![HTML5](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
 <img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50% height=50%>
+
+Please feel free to contact me or visit my profile page
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
-[![Page](https://img.shields.io/badge/-Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
+[![Page](https://img.shields.io/badge/-PROFILE%20Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
 
 ##### Languages I use frequently
 
@@ -19,11 +21,6 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 ![Matlab](https://img.shields.io/badge/-Matlab-06305b?style=flat&logo=mathworks&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-Latex-4d008f?style=flat&logo=latex&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat)
-![HTML5](https://img.shields.io/badge/-Database%20Management-4d008f?style=flat)
-![HTML5](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
-
 
 ##### Some of the technologies I have worked with
 
