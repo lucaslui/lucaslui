@@ -5,6 +5,8 @@ Tendo como hobbie o desenvolvimento de software usando linguagem Java para todo 
 
 [![Linkedin Badge](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lui-motta/)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
 [![Github Badge](https://img.shields.io/badge/-My%20Personal%20Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)](https://lucaslui.github.io/personal-page/)
+[![HitCount](http://hits.dwyl.com/lucaslui/https://githubcom/lucaslui.svg)]
+(http://hits.dwyl.com/lucaslui/https://githubcom/lucaslui)
 
 ### Formação
 - Graduado em Engenharia Elétrica com Enfâse em Eletrônica pela Universidade Salesiana de São Paulo (UNISAL).
