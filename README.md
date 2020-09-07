@@ -7,17 +7,14 @@
 ![Embarcados](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 
 ##### Languages I use frequently
-
-    ![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/-C%20&%20C++-222222?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/-Matlab-222222?style=flat&logo=mathworks&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python%203-222222?style=flat&logo=python&logoColor=white) 
-
 ##### Some of the technologies I have worked with
-
 [![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/en/)
 [![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=339933)]()
 [![Espruino](https://img.shields.io/badge/-Espruino-222222?style=flat&logo=arduino&logoColor=007ACC)](https://www.espruino.com/)
