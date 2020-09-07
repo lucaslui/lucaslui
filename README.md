@@ -12,6 +12,7 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=ccs3)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
