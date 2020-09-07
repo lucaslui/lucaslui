@@ -12,3 +12,5 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 ](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-LUCASLUI-736282.pdf)--->
 
 ---
+
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
