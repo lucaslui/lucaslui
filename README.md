@@ -26,11 +26,11 @@
 [![Electron](https://img.shields.io/badge/-Electron-222222?style=flat&logo=electron&logoColor=007ACC)](https://www.electronjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
-[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)]()
 [![Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=fff)]()
 
 #### Some of my favorite open source projects
 
+[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=fff)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 #### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/) and visit my [![Page](https://img.shields.io/badge/-Page-000000?style=flat&logo=houzz&logoColor=white)](https://lucaslui.github.io/personal-page/)
