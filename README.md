@@ -6,11 +6,10 @@
 ![HTML5](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 ![HTML5](https://img.shields.io/badge/-Embedded%20Systems-102230?style=flat)
 
-#### Welcome to contact me or visit my profile page
+#### Please feel free to contact via
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/)
-[![Page](https://img.shields.io/badge/-PROFILE%20Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
 
 ##### Languages I use frequently
 
@@ -39,5 +38,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 ---
+
+[![Page](https://img.shields.io/badge/-PROFILE%20Page-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucaslui.github.io/personal-page/)
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
