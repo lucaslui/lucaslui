@@ -25,7 +25,7 @@ Tendo como atual objetivo o desenvolvimento de software usando linguagem Javascr
 ##### Some of the technologies I have worked with
 
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-[![Espruino](https://img.shields.io/badge/-Espruino-444444?style=flat&logo=espruino&logoColor=007ACC)](https://www.espruino.com/)
+[![Espruino](https://img.shields.io/badge/-Espruino-222222?style=flat&logo=espruino&logoColor=007ACC)](https://www.espruino.com/)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
