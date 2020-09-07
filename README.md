@@ -31,7 +31,7 @@
 
 ##### Some of my favorite open source projects
 
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 ---
 
