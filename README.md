@@ -21,7 +21,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)]()
 [![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
