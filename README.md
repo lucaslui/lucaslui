@@ -18,15 +18,15 @@
 
 #### Some of the technologies I have worked with
 
-[![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/en/)
-[![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=339933)]()
-[![Espruino](https://img.shields.io/badge/-Espruino-222222?style=flat&logo=arduino&logoColor=007ACC)](https://www.espruino.com/)
-[![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=FFFFFF)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=339933)](https://www.mongodb.com/)
-[![Electron](https://img.shields.io/badge/-Electron-222222?style=flat&logo=electron&logoColor=007ACC)](https://www.electronjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)]()
-[![Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=fff)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)]()
+[![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)]()
 
 #### Some of my favorite open source projects
 
