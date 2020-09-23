@@ -14,7 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white) 
-<!--![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)-->
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 #### Some of the technologies I have worked with
 
