@@ -13,18 +13,18 @@
 ![C](https://img.shields.io/badge/-C%20&%20C++-0077B5?style=flat&logo=c%2b%2b&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) 
+<!--![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)-->
 ![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white) 
 
 #### Some of the technologies I have worked with
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)
+<!--[![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)-->
 [![Vue.js](https://img.shields.io/badge/-Vue.js-35485d?style=flat&logo=vue.js&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()
+<!--[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)-->
+<!--[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()-->
+<!--[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()-->
 [![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)]()
 
 #### Some of my favorite open source projects
