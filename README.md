@@ -32,7 +32,7 @@
 <!--[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)]()-->
 #### Some of my favorite open source projects
 
-[![Linux](https://img.shields.io/badge/-Linux-ffa804?style=flat&logo=linux&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=angellist&logoColor=white)](https://platformio.org/)
 
