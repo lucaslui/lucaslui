@@ -20,7 +20,7 @@
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-35485d?style=flat&logo=vue.js&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logo007ACCColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)]()
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
@@ -34,6 +34,6 @@
 
 [![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
-[![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=angelist&logoColor=white)](https://platformio.org/)
+[![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=angellist&logoColor=white)](https://platformio.org/)
 
 #### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/) and visit my [![Page](https://img.shields.io/badge/-Page-000000?style=flat&logo=houzz&logoColor=white)](https://lucaslui.github.io/personal-page/)
