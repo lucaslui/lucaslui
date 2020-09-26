@@ -3,8 +3,8 @@
 #### Hi there, I'm Lucas and I work with
 
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
-![Dev](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 ![Embarcados](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
+![Dev](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 
 #### Languages I use frequently
 
