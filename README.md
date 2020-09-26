@@ -34,7 +34,7 @@
 
 #### Some of my favorite open source projects
 
-[![Linux](https://img.shields.io/badge/-Linux-ffa804?style=flat&logo=linux&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)]()
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=angellist&logoColor=white)](https://platformio.org/)
