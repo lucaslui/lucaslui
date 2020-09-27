@@ -1,12 +1,12 @@
 <img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%>
 
-<h4> Hi there, I'm Lucas and I work with <\h4>
+<h4> Hi there, I'm Lucas and I work with </h4>
 
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![Embarcados](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 ![Dev](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 
-### Languages I use frequently
+<h4> Languages I use frequently </h4>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C%2FC++-0077B5?style=flat&logo=c%2b%2b&logoColor=white)
@@ -16,7 +16,7 @@
 <!--![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) -->
 <!--![Java](https://img.shields.io/badge/-Java-D14836?style=flat&logo=java&logoColor=white) -->
 
-### Some of the technologies I have worked with
+<h4> Some of the technologies I have worked with </h4>
 
 [![Node.js](https://img.shields.io/badge/-Node.js-004027?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-47A248?style=flat&logo=vue.js&logoColor=white)]()
@@ -34,7 +34,7 @@
 <!--[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()-->
 <!--[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()-->
 
-### Some of my favorite open source projects
+<h4> Some of my favorite open source projects </h4>
 
 [![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
