@@ -19,7 +19,7 @@
 ##### Some of the technologies I have worked with
 
 [![Node.js](https://img.shields.io/badge/-Node.js-004027?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-47A248?style=flat&logo=vue.js&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
