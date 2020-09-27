@@ -1,11 +1,13 @@
 <img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%>
 
-<h4> Hi there, I'm Lucas and I work with </h4>
+Hi there, I'm Lucas and I work with
+
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![Embarcados](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 ![Dev](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 
-<h4> Languages I use frequently </h4>
+Languages I use frequently
+
 ![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C%2FC++-0077B5?style=flat&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white) 
@@ -14,7 +16,8 @@
 <!--![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) -->
 <!--![Java](https://img.shields.io/badge/-Java-D14836?style=flat&logo=java&logoColor=white) -->
 
-<h4> Some of the technologies I have worked with </h4>
+Some of the technologies I have worked with
+
 [![Node.js](https://img.shields.io/badge/-Node.js-004027?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-47A248?style=flat&logo=vue.js&logoColor=white)]()
 [![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)]()
@@ -31,9 +34,10 @@
 <!--[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()-->
 <!--[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()-->
 
-<h4> Some of my favorite open source projects </h4>
+Some of my favorite open source projects
+
 [![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 
-### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/) and visit my [![Page](https://img.shields.io/badge/-Page-000000?style=flat&logo=houzz&logoColor=white)](https://lucaslui.github.io/personal-page/)
+Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta-eng/) and visit my [![Page](https://img.shields.io/badge/-Page-000000?style=flat&logo=houzz&logoColor=white)](https://lucaslui.github.io/personal-page/)
