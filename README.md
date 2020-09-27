@@ -18,7 +18,7 @@
 
 ##### Some of the technologies I have worked with
 
-[![Node.js](https://img.shields.io/badge/-Node.js-004027?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/-React-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)]()
