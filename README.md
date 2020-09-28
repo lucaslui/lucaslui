@@ -17,15 +17,16 @@
 <!--![Java](https://img.shields.io/badge/-Java-D14836?style=flat&logo=java&logoColor=white) -->
 
 ##### Some of the technologies I have worked with
-| [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/) | [![React](https://img.shields.io/badge/-React-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/) |
-[![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
+[![React](https://img.shields.io/badge/-React-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
+[![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://mosquitto.org/)
+[![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
-[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
 <!--[![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)-->
@@ -34,7 +35,7 @@
 
 ##### Some of my favorite open source projects
 
-[![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 
