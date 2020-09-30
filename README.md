@@ -20,15 +20,15 @@
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
 [![React](https://img.shields.io/badge/-React-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
-[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Mosquitto](https://img.shields.io/badge/-Mosquitto-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://mosquitto.org/)
 [![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+<!--[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/) -->
 <!--[![React](https://img.shields.io/badge/-React%2FReact%20Native-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)-->
-<!--[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)-->
 <!--[![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)-->
 <!--[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()-->
 <!--[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()-->
