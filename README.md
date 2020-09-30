@@ -1,12 +1,13 @@
+<img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%>
 
-
-#### Hi there, I'm Lucas and I work with <img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%>
+#### Hi there, I'm Lucas and I work with 
 
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![Embarcados](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 ![Dev](https://img.shields.io/badge/-Software%20Development-4d008f?style=flat)
 
 #### Languages I use frequently
+
 ![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C%2FC++-0077B5?style=flat&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white) 
@@ -16,6 +17,7 @@
 <!--![Java](https://img.shields.io/badge/-Java-D14836?style=flat&logo=java&logoColor=white) -->
 
 #### Some of the technologies I have worked with
+
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
 [![React](https://img.shields.io/badge/-React-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
@@ -32,6 +34,7 @@
 <!--[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)]()-->
 
 #### Some of my favorite open source projects
+
 [![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
