@@ -27,6 +27,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://redis.io/)
 <!--[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/) -->
 <!--[![React](https://img.shields.io/badge/-React%2FReact%20Native-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)-->
 <!--[![Espruino](https://img.shields.io/badge/-Espruino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.espruino.com/)-->
