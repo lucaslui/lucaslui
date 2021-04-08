@@ -13,6 +13,10 @@
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-D14836?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcosvcorsi&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Some of the technologies I have worked with
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
