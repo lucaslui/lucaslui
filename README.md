@@ -1,6 +1,6 @@
 <!--<img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%> -->
 
-#### Hi there, I'm Lucas and inside IoT I work with 
+#### Hi there, I'm Lucas and I work with 
 
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-0077B5?style=flat)
