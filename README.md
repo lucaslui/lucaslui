@@ -2,9 +2,9 @@
 
 #### Hi there, I'm Lucas and inside IoT I work with 
 
-![IoT](https://img.shields.io/badge/-Internet%20of%20Things-D14836?style=flat)
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
 ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-0077B5?style=flat)
-![Software](https://img.shields.io/badge/-Software%20Development-ffa804?style=flat)
+![Software](https://img.shields.io/badge/-Software%20Development-D14836?style=flat)
 ![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)
 
 #### Languages I use frequently
