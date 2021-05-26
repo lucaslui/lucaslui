@@ -10,7 +10,7 @@
 #### Languages I use frequently
 
 [![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
-[![Javascript](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -29,7 +29,7 @@
 
 #### Some of my favorite open source projects
 
-[![Linux](https://img.shields.io/badge/-Linux-D14836?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![Linux](https://img.shields.io/badge/-Linux-ffa804?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
