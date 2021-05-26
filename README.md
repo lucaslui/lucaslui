@@ -2,16 +2,16 @@
 
 #### Hi there, I'm Lucas and I work with 
 
-![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-D14836?style=flat)
 ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-0077B5?style=flat)
-![Software](https://img.shields.io/badge/-Software%20Development-D14836?style=flat)
+![Software](https://img.shields.io/badge/-Software%20Development-ffa804?style=flat)
 ![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)
 
 #### Languages I use frequently
 
 [![C](https://img.shields.io/badge/-C%2FC++-0077B5?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
-[![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://nodejs.org/en/)
+[![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://nodejs.org/en/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]() -->
