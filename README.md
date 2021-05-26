@@ -1,16 +1,16 @@
 <!--<img align='right' src="https://github.com/lucaslui/lucaslui/blob/master/iot11-development.gif" width=50%> -->
 
-#### Hi there, I'm Lucas and I work with 
+#### Hi there, I'm Lucas and inside IoT I work with 
 
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-D14836?style=flat)
 ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-0077B5?style=flat)
 ![Software](https://img.shields.io/badge/-Software%20Development-ffa804?style=flat)
-![Analytics](https://img.shields.io/badge/-Data%20Science-4d008f?style=flat)
+![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)
 
 #### Languages I use frequently
 
 [![C](https://img.shields.io/badge/-C%2FC++-0077B5?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
-[![Javascript](https://img.shields.io/badge/-JavaScript-EAB300?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-339933?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://nodejs.org/en/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
