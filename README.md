@@ -14,6 +14,28 @@
 | ![Software](https://img.shields.io/badge/-Software%20Development-007ACC?style=flat) | [![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/) [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)](https://nodejs.org/en/) [![React.js](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/) | 
 | ![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)   | Text        | |
 
+<table>
+  <thead>
+    <tr>
+      <th>Payment</th>
+      <th>Issue Date</th>
+      <th>Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="Payment"> ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat) </td>
+      <td data-label="Issue Date">02/01/2015</td>
+      <td data-label="Amount">$2,311</td>
+    </tr>
+    <tr>
+      <td data-label="Payment">Payment #2</td>
+      <td data-label="Issue Date">03/01/2015</td>
+      <td data-label="Amount">$3,211</td>
+    </tr>
+  </tbody>
+</table>
+
 #### Languages I use frequently
 
 [![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
