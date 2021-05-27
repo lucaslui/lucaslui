@@ -25,13 +25,13 @@
   <tbody>
     <tr>
       <td data-label="Payment"> <img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"> </img> </td>
-      <td data-label="Issue Date">02/01/2015</td>
-      <td data-label="Amount">$2,311</td>
+      <td data-label="Issue Date"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"></td>
+      <td data-label="Amount"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"></td>
     </tr>
     <tr>
-      <td data-label="Payment">Payment #2</td>
-      <td data-label="Issue Date">03/01/2015</td>
-      <td data-label="Amount">$3,211</td>
+      <td data-label="Payment"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"></td>
+      <td data-label="Issue Date"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"></td>
+      <td data-label="Amount"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"><img src="https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat"></td>
     </tr>
   </tbody>
 </table>
