@@ -12,7 +12,7 @@
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]() -->
 
 #### Some of the technologies I have worked with
 
