@@ -12,7 +12,7 @@
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]() -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]()
 
 #### Some of the technologies I have worked with
 
@@ -33,5 +33,3 @@
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
 
 #### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my [![Page](https://img.shields.io/badge/-Page-000000?style=flat&logo=houzz&logoColor=white)](https://lucaslui.github.io/blog/)
-
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaslui&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)]() -->
