@@ -11,9 +11,7 @@
 | :----: | :----: | :----: |
 | ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)      | Title       | |
 | ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)   | Text        | |
-| ![Software](https://img.shields.io/badge/-Software%20Development-007ACC?style=flat) | [![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/) [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)](https://nodejs.org/en/) 
-[![React.js](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/) | 
+| ![Software](https://img.shields.io/badge/-Software%20Development-007ACC?style=flat) | [![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/) [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)](https://nodejs.org/en/) [![React.js](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/) | 
 | ![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)   | Text        | |
 
 #### Languages I use frequently
