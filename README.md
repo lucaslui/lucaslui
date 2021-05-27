@@ -7,6 +7,11 @@
 ![Software](https://img.shields.io/badge/-Software%20Development-007ACC?style=flat)
 ![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| (https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)      | Title       |
+| (https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)   | Text        |
+
 #### Languages I use frequently
 
 [![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
