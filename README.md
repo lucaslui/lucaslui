@@ -28,8 +28,8 @@
     <td> <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white"></img></a> </td>
   </tr>
 </table>
-  
-[![STMicroelectronics](https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
+
+<!-- [![STMicroelectronics](https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
 [![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
@@ -42,7 +42,8 @@
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 
 [![VerneMQ](https://img.shields.io/badge/-VerneMQ-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://vernemq.com/)
-[![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)-->
+
 
 #### Some of my favorite open source projects
 
