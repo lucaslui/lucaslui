@@ -16,7 +16,7 @@
 
 #### Some of the technologies I have worked with
 
-[![STMicroelectronics](https://img.shields.io/badge/-STM-4d008f?style=flat&logo=STMicroelectronics&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
+[![STMicroelectronics](https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
 [![ESP](https://img.shields.io/badge/-ESP-E7352C?style=flat&logo=Espressif&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
