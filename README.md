@@ -24,7 +24,7 @@
 
 [![SQLite](https://img.shields.io/badge/-SQLite-002E5F?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-007ACC?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
 
 [![VerneMQ](https://img.shields.io/badge/-VerneMQ-002E5F?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://vernemq.com/)
@@ -33,9 +33,9 @@
 #### Some of my favorite open source projects
 
 [![Linux](https://img.shields.io/badge/-Linux-ffab04?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![GCC](https://img.shields.io/badge/-GCC-67595E?style=flat&logo=GNU&logoColor=white)](https://gcc.gnu.org/)
+[![GCC](https://img.shields.io/badge/-GNU%2FGCC-339933?style=flat&logo=GNU&logoColor=white)](https://gcc.gnu.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
 
-#### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my [![Blog](https://img.shields.io/badge/-Blog-000000?style=flat&logo=houzz&logoColor=white)](https://blog-lucaslui.vercel.app/)
+#### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my [![Blog](https://img.shields.io/badge/-Blog-000000?style=flat&logo=houzz&logoColor=white)](https://blog-lucaslui.vercel.app/)
