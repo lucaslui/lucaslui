@@ -17,7 +17,7 @@
 #### Some of the technologies I have worked with
 
 [![STMicroelectronics](https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
-[![ESP](https://img.shields.io/badge/-ESP-E7352C?style=flat&logo=Espressif&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
+[![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
 [![React DOM/Native](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
@@ -31,6 +31,7 @@
 #### Some of my favorite open source projects
 
 [![Linux](https://img.shields.io/badge/-Linux-ffab04?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![GCC](https://img.shields.io/badge/-GCC-D14836?style=flat&logo=GNU&logoColor=white)](https://gcc.gnu.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
