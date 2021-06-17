@@ -1,6 +1,6 @@
 #### Hi there, I'm Lucas and I work with
 
-![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffa804?style=flat)
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffab04?style=flat)
 ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 ![Software](https://img.shields.io/badge/-Software%20Development-007ACC?style=flat)
 ![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)
@@ -8,7 +8,7 @@
 #### Languages I use frequently
 
 [![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
-[![Javascript](https://img.shields.io/badge/-JavaScript-ffa804?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-ffab04?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -16,8 +16,8 @@
 
 #### Some of the technologies I have worked with
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)](https://nodejs.org/en/) 
-[![React.js](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
+[![React DOM/Native](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![VerneMQ](https://img.shields.io/badge/-VerneMQ-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://vernemq.com/)
 [![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -27,7 +27,7 @@
 
 #### Some of my favorite open source projects
 
-[![Linux](https://img.shields.io/badge/-Linux-ffa804?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![Linux](https://img.shields.io/badge/-Linux-ffab04?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
