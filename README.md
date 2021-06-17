@@ -7,7 +7,7 @@
 
 #### Languages I use frequently
 
-[![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=c%2b%2b&logoColor=white)](https://gcc.gnu.org/)
+[![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=Coursera&logoColor=white)](https://gcc.gnu.org/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-ffab04?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
