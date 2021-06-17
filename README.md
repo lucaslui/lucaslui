@@ -18,7 +18,7 @@
 
 [![STMicroelectronics](https://img.shields.io/badge/-STM32-002E5F?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Arduino](https://img.shields.io/badge/-Arduino-336791?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
 [![React.js](https://img.shields.io/badge/-React.js-007ACC?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 
