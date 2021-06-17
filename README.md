@@ -16,7 +16,7 @@
 
 #### Some of the technologies I have worked with
 
-<table>
+<!--<table>
   <tr>
     <td> <a href="https://www.st.com/content/st_com/en.html"><img src="https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white"></img></a> </td>
     <td> <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white"></img></a> </td>
@@ -27,23 +27,20 @@
     <td> <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white"></img></a> </td>
     <td> <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white"></img></a> </td>
   </tr>
-</table>
+</table>-->
 
-<!-- [![STMicroelectronics](https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
+[![STMicroelectronics](https://img.shields.io/badge/-STM-007ACC?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
 [![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
 [![React DOM/Native](https://img.shields.io/badge/-React.js-22ADF6?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
+[![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VerneMQ](https://img.shields.io/badge/-VerneMQ-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://vernemq.com/)
 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)](https://www.influxdata.com/)
-
-[![VerneMQ](https://img.shields.io/badge/-VerneMQ-3C5280?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://vernemq.com/)
-[![Docker](https://img.shields.io/badge/-Docker-0077B5?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)-->
-
 
 #### Some of my favorite open source projects
 
