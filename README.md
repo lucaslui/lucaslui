@@ -33,7 +33,7 @@
 #### Some of my favorite open source projects
 
 [![Linux](https://img.shields.io/badge/-Linux-ffab04?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![GCC](https://img.shields.io/badge/-GNU%2FGCC-D14836?style=flat&logo=GNU&logoColor=white)](https://gcc.gnu.org/)
+[![GCC](https://img.shields.io/badge/-GCC%2FG++-D14836?style=flat&logo=GNU&logoColor=white)](https://gcc.gnu.org/)
 [![OpenOCD](https://img.shields.io/badge/-OpenOCD-336791?style=flat&logo=Dependabot&logoColor=white)](http://openocd.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
