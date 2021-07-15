@@ -16,7 +16,7 @@
 
 #### Some of the technologies I have worked with
 
-[![STMicroelectronics](https://img.shields.io/badge/-STM32-002E5F?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![STMicroelectronics](https://img.shields.io/badge/-STM-002E5F?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![Arduino](https://img.shields.io/badge/-Arduino-336791?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
