@@ -22,7 +22,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
 [![React.js](https://img.shields.io/badge/-React.js-007ACC?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit.learn-4d008f?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
-
+<!--
 [![SQLite](https://img.shields.io/badge/-SQLite-002E5F?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -30,7 +30,7 @@
 
 [![VerneMQ](https://img.shields.io/badge/-VerneMQ-002E5F?style=flat&logo=eclipse-mosquitto&logoColor=white)](https://vernemq.com/)
 [![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-
+-->
 #### Some of my favorite open source projects
 
 [![Linux](https://img.shields.io/badge/-Linux-ffab04?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
