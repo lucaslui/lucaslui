@@ -7,20 +7,20 @@
 
 #### Languages I use frequently
 
-[![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=Coursera&logoColor=white)](https://gcc.gnu.org/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-ffab04?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=Coursera&logoColor=white)](https://gcc.gnu.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]() -->
 
 #### Some of the technologies I have worked with
 
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
+[![React.js](https://img.shields.io/badge/-React.js-007ACC?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![STMicroelectronics](https://img.shields.io/badge/-STM-002E5F?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![Arduino](https://img.shields.io/badge/-Arduino-336791?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://nodejs.org/en/) 
-[![React.js](https://img.shields.io/badge/-React.js-007ACC?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit.learn-4d008f?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
 <!--
 [![SQLite](https://img.shields.io/badge/-SQLite-002E5F?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
