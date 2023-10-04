@@ -3,13 +3,13 @@
 ![IoT](https://img.shields.io/badge/-Internet%20of%20Things-ffab04?style=flat)
 ![Embedded](https://img.shields.io/badge/-Embedded%20Systems-D14836?style=flat)
 ![Software](https://img.shields.io/badge/-Software%20Development-007ACC?style=flat)
-![Analytics](https://img.shields.io/badge/-Data%20Analytics%2FScience-4d008f?style=flat)
+![Analytics](https://img.shields.io/badge/-Data%20Science-4d008f?style=flat)
 
 #### Languages I use frequently
 
+[![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=Coursera&logoColor=white)](https://gcc.gnu.org/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-ffab04?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C](https://img.shields.io/badge/-C%2FC++-007ACC?style=flat&logo=Coursera&logoColor=white)](https://gcc.gnu.org/)
 [![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslui&theme=dark&layout=compact)]() -->
