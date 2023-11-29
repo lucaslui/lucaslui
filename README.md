@@ -20,9 +20,10 @@
 [![React.js](https://img.shields.io/badge/-React.js-007ACC?style=flat&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![STMicroelectronics](https://img.shields.io/badge/-STM-002E5F?style=flat&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit.learn-4d008f?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
+
 <!--[![ESP](https://img.shields.io/badge/-ESP-D14836?style=flat&logo=Espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) -->
 <!--[![Arduino](https://img.shields.io/badge/-Arduino-336791?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/) -->
-[![Scikit-learn](https://img.shields.io/badge/-Scikit.learn-4d008f?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
 <!--
 [![SQLite](https://img.shields.io/badge/-SQLite-002E5F?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
