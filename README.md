@@ -37,8 +37,8 @@
 [![Linux](https://img.shields.io/badge/-Linux-ffab04?style=flat&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 [![GCC](https://img.shields.io/badge/-GCC%2FG++-D14836?style=flat&logo=GNU&logoColor=white)](https://gcc.gnu.org/)
-<!--[![OpenOCD](https://img.shields.io/badge/-OpenOCD-336791?style=flat&logo=Dependabot&logoColor=white)](http://openocd.org/) -->
 [![PlatformIO](https://img.shields.io/badge/-PlatformIO-E34F26?style=flat&logo=bilibili&logoColor=white)](https://platformio.org/)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
+<!--[![OpenOCD](https://img.shields.io/badge/-OpenOCD-336791?style=flat&logo=Dependabot&logoColor=white)](http://openocd.org/) -->
 
 #### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my [![Blog](https://my-blog-frontend-theta.vercel.app/)](https://blog-lucaslui.vercel.app/)
