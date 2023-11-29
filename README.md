@@ -41,4 +41,4 @@
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
 <!--[![OpenOCD](https://img.shields.io/badge/-OpenOCD-336791?style=flat&logo=Dependabot&logoColor=white)](http://openocd.org/) -->
 
-#### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my [![Blog](https://my-blog-frontend-theta.vercel.app/)](https://blog-lucaslui.vercel.app/)
+#### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my [![Blog](https://img.shields.io/badge/-Blog-000000?style=flat&logo=houzz&logoColor=white)](https://my-blog-frontend-theta.vercel.app/)
