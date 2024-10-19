@@ -24,7 +24,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-002E5F?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/-Redis-002E5F?style=flat&logo=Redis&logoColor=white)]()
 
-#### Already works inside these cloud providers
+#### Already worked with these cloud providers
 
 ![AWS](https://img.shields.io/badge/-AWS-002E5F?style=flat&logo=amazon-web-services&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-002E5F?style=flat&logo=google-cloud&logoColor=white)
@@ -36,4 +36,4 @@
 [![Gnome](https://img.shields.io/badge/-Gnome-002E5F?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-002E5F?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/microsoft/vscode)
 
-#### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-002E5F?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-002E5F?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my blog [![Blog](https://img.shields.io/badge/-Blog-002E5F?style=flat&logo=houzz&logoColor=white)](https://iot-tpm-unicamp.vercel.app/)
+<!---#### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-002E5F?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-002E5F?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) and visit my blog [![Blog](https://img.shields.io/badge/-Blog-002E5F?style=flat&logo=houzz&logoColor=white)](https://iot-tpm-unicamp.vercel.app/)-->
