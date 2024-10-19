@@ -4,7 +4,7 @@
 ![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-002E5F?style=flat)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-002E5F?style=flat)
 
-#### Languages I already used
+#### Languages ​​I use frequently
 
 [![Javascript](https://img.shields.io/badge/-JavaScript-002E5F?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
