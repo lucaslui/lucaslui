@@ -6,11 +6,11 @@
 
 #### Languages ​​I use frequently
 
-[![Javascript](https://img.shields.io/badge/-JavaScript-ffab04?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-002E5F?style=flat&logo=javascript&logoColor=white)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-002E5F?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/-Python-4d008f?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-F47521?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)](https://openjdk.org/)
+[![Python](https://img.shields.io/badge/-Python-002E5F?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-002E5F?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Golang](https://img.shields.io/badge/Golang-002E5F?style=flat&logo=go&logoColor=white)](https://openjdk.org/)
 
 #### Some of the technologies I have worked with
 
