@@ -1,9 +1,9 @@
 #### Hi there, I'm Lucas and I am
 
-- 👨‍💻 Working as a senior software developer
-- 📖 Studying data enginnering and data science
-- 🎓 Finishing my PhD degree
-- 🐧 Passionate about open source projects like linux, gnome and vscode.
+- 👨‍💻 Working as a Senior Software Developer
+- 📖 Studying out of curiosity topics in Data Enginnering and Data Science
+- 🎓 Finishing my PhD degree in area of IoT Solutions
+- 🐧 Passionate about open source projects like Linux, Gnome and VSCode
 
 #### Languages ​​I use frequently
 
@@ -34,7 +34,7 @@
 #### Already worked with these cloud providers
 
 <div style="display: inline_block">
-  <img align="center" alt="AWS" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg'>
+  <img align="center" alt="AWS" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'>
   <img align="center" alt="GCP" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg'>
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
