@@ -39,13 +39,5 @@
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
 
-#### Some of my favorite open source projects
-
-<div style="display: inline_block">
-  <img align="center" alt="Linux" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'>
-  <img align="center" alt="Gnome" height="30" width="40" src='https://lh3.googleusercontent.com/dRDUauggVeTXnvQjdfnld4RlfMPaijXPw-KD48jGRLbASNY2X-JHLGGwOHKiybqhww1fwG33B1iCHw9NjjvGdaJPvA=s60'>
-  <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</div>
-
 #### Please feel free to contact me via [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasluimotta@gmail.com) or [![LinkedIn](https://img.shields.io/badge/-Linkedin-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lui-motta/) 
 <!--- and visit my blog [![Blog](https://img.shields.io/badge/-Blog-002E5F?style=flat&logo=houzz&logoColor=white)](https://iot-tpm-unicamp.vercel.app/)-->
