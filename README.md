@@ -2,7 +2,7 @@
 
 - 👨‍💻 Working as a **Senior Full Stack Software Developer**
 - 📖 Studying out of curiosity topics in **Data Enginnering** and **Data Science**
-- 🎓 Finishing my **PhD degree** in area of IoT Solutions
+- 🎓 Finishing my **PhD degree** in the field of IoT Solutions
 - 🐧 Passionate about open source projects like **Linux**, **Gnome** and **VSCodium**
 
 #### Languages ​​I use frequently
