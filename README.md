@@ -1,6 +1,6 @@
 #### Hi there, I'm Lucas and I am
 
-- 👨‍💻 Working as a **Senior Software Developer**
+- 👨‍💻 Working as a **Senior Full Stack Software Developer**
 - 📖 Studying out of curiosity topics in **Data Enginnering** and **Data Science**
 - 🎓 Finishing my **PhD degree** in area of IoT Solutions
 - 🐧 Passionate about open source projects like **Linux**, **Gnome** and **VSCodium**
