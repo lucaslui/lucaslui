@@ -23,12 +23,12 @@
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="FastApi" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg'>
   <img align="center" alt="Spring" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'>
-  <img align="center" alt="Docker" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'>
-  <img align="center" alt="Kubernets" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg'>
-  <img align="center" alt="Kafka" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg'>
   <img align="center" alt="Postgres" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
   <img align="center" alt="Mongo" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
   <img align="center" alt="Redis" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg'>
+  <img align="center" alt="Docker" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'>
+  <img align="center" alt="Kubernets" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg'>
+  <img align="center" alt="Kafka" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg'>
 </div>
 
 #### Certified in one cloud provider and familiar with the others
