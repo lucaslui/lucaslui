@@ -2,7 +2,7 @@
 
 - 👨‍💻 Working as a **Senior Full Stack Software Developer**
 - 📖 Studying out of curiosity topics in **Data Enginnering** and **Data Science**
-- 🎓 Finishing my **PhD degree** in the field of Internet of Things
+- 🎓 Finishing my **PhD degree** in the field of Internet of Things ([contributions](https://scholar.google.es/citations?user=HiZOf4QAAAAJ&hl=es&oi=ao))
 - 🧑‍🏫 Part-time **Professor** in the field of ​​Internet of Things ([courses page](https://iotcursosunicamp.com.br/))
 - 🐧 Passionate about open source projects like **Linux**, **Gnome** and **VSCodium**
 
