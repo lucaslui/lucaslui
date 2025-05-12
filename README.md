@@ -2,11 +2,11 @@
 
 - 👨‍💻 Working as a **Senior Full Stack Software Developer**
 - 🧑‍🏫 Part-time **Professor** in the field of Internet of Things and Blockchain ([courses](https://iotcursosunicamp.com.br/))
-- 🎓 Finishing my **PhD degree** in the field of Data Management for Internet of Things ([papers](https://scholar.google.es/citations?user=HiZOf4QAAAAJ&hl=es&oi=ao))
+- 🎓 Finishing my **PhD degree** in the field of Cloud Data Management for Internet of Things ([papers](https://scholar.google.es/citations?user=HiZOf4QAAAAJ&hl=es&oi=ao))
 - 📖 Studying out of curiosity topics in **Data Enginnering** and **Data Science**
 - 🐧 Passionate about open source projects like **Linux**, **Gnome** and **VSCodium**
 
-#### Languages ​​I use frequently
+#### Languages ​​I use in order of greatest frequency
 
 <div style="display: inline_block">
   <img align="center" alt="Javascript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
