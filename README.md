@@ -2,7 +2,7 @@
 
 - 👨‍💻 Working as a **Senior Full Stack Software Developer**
 - 🧑‍🏫 Part-time **Professor** in the field of Internet of Things and Blockchain ([courses](https://iotcursosunicamp.com.br/))
-- 🎓 Finishing my **Ph.D degree** about Cloud Architecture for Energy Management Systems ([papers](https://scholar.google.es/citations?user=HiZOf4QAAAAJ&hl=es&oi=ao))
+- 🎓 Finishing my **Ph.D degree** about Cloud Architecture for HEMS ([papers](https://scholar.google.es/citations?user=HiZOf4QAAAAJ&hl=es&oi=ao))
 - 📖 Studying out of curiosity topics in **Data Enginnering** and **Data Science**
 - 🐧 Passionate about open source projects like **Linux**, **Gnome** and **VSCodium**
 
